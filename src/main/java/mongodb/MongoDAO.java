@@ -17,6 +17,8 @@ public class MongoDAO {
         System.out.println(sale);
         mongoClient.close();
 
+        //https://medium.com/danieldiasjava/comunica%C3%A7%C3%A3o-entre-java-e-mongodb-e922d1285dc0
+
 
 //        ConnectionString connectionString = new ConnectionString("mongodb+srv://laranjazda:bros2011@h-s-o-b.5b97q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority");
 //        MongoClientSettings settings = MongoClientSettings.builder()
